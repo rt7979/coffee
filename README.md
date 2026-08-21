@@ -6,7 +6,7 @@ markdown_content = """# ☕ 台灣咖啡產業深度分析：從產地到市場
 ---
 
 ## 1. 產地分佈與氣候微環境
-![台灣咖啡產地分佈示意]:tent:
+🏕️[台灣咖啡產地分佈示意]
 
 台灣咖啡主要分佈於北回歸線附近，具備熱帶與亞熱帶氣候特徵。
 *   **海拔優勢**：以阿里山、古坑、大武山產區為例，多數高海拔（800m - 1200m+）環境有效延緩果實成熟，增加風味複雜度。
@@ -15,7 +15,7 @@ markdown_content = """# ☕ 台灣咖啡產業深度分析：從產地到市場
 ---
 
 ## 2. 市場動態：自給率與進口結構
-![市場數據統計圖]📊
+📊[市場數據統計圖]
 
 台灣咖啡消費量逐年攀升，咖啡已成為國人日常必需品。
 
@@ -30,7 +30,7 @@ markdown_content = """# ☕ 台灣咖啡產業深度分析：從產地到市場
 ---
 
 ## 3. 經濟評估：成本與收益分析
-![咖啡種植經濟模型](https://raw.githubusercontent.com/your-username/your-repo/main/images/profit-icon.png)
+🌴[咖啡種植經濟模型]
 
 經營在地精品咖啡面臨高昂的勞力與管理成本，但收益潛力亦大。
 
@@ -46,7 +46,7 @@ markdown_content = """# ☕ 台灣咖啡產業深度分析：從產地到市場
 ---
 
 ## 4. 未來展望與挑戰
-![咖啡成長未來](https://raw.githubusercontent.com/your-username/your-repo/main/images/growth-icon.png)
+📈[咖啡成長未來]
 
 1.  **氣候風險**：氣候變遷導致極端乾旱或豪雨，對脆弱的咖啡樹是一大挑戰。
 2.  **勞動力短缺**：青農返鄉投入後製轉型，將是產業升級的關鍵。
@@ -57,6 +57,3 @@ markdown_content = """# ☕ 台灣咖啡產業深度分析：從產地到市場
 *資料來源說明：本分析彙整農業部統計數據與產業觀察報告。*
 *圖示說明：請替換為您 GitHub 倉庫內的真實圖片路徑。*
 """
-
-with open("Taiwan_Coffee_Industry_Analysis.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
